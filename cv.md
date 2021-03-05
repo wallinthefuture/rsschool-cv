@@ -43,3 +43,24 @@ for (int i = 0; i < size - 1; i++) {
         }
     }
 ```
+
+---
+
+#### Experience
+
+---
+
+#### Education
+
+- Streamline
+- JS basic
+- BSUIR
+- OOP
+- Metanit
+- Head First Java
+
+---
+
+#### English
+
+B1
